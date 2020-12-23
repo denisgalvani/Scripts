@@ -7,8 +7,8 @@ Scripts para gerenciamento de Serviços do Windows *(start/stop)*
 ### Serviços do ERP ***TOTVS | Protheus***
 Scripts para iniciar e parar os serviços do ambiente do sistema Protheus conforme ordem de dependência
 
-- `Protheus-START.bat` - Inicializar serviços relacionados;
-- `Protheus-STOP.bat` - Parar serviços relacionados;
+- [`Protheus-START.bat`](Protheus-START.bat) - Inicializar serviços relacionados;
+- [`Protheus-STOP.bat`](Protheus-STOP.bat) - Parar serviços relacionados;
 
 > **NOTA!** Para correta execução o script deve ser executado com privilégio administrativo - *"Executar como Administrador"*.
 
