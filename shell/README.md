@@ -24,18 +24,19 @@ Ordem de serviços manipulados:
 1. *SGBD* - *Microsoft* **SQL Server**
 2. *Licenças* - **TOTVS | License Server Virtual**
 3. *Acesso a dados (BD)* - **TOTVS | DBAccess**
-4. *ERP* - **TOTVS | Protheus** *(pppserver)*
+4. *ERP* - **TOTVS | Protheus** *(appserver)*
 
 ***Referência e Download***
 
 Sites para documentação de referência e downloads de serviços
 
-![*Microsoft*](https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE1Mu3b?ver=5c31)
+![*Microsoft*](https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE1Mu3b?ver=5c31 "Microsoft")
 
 - Microsoft | Data Plataform - [**Downloads do SQL Server**][MSSQL]
 - Microsoft Docs | [**SQL Server Management Studio** *(SSMS)*][SSMS]
 
-![TDN - TOTVS Developer Network](https://tdn.engpro.totvs.com.br/download/attachments/327682/atl.site.logo?version=2&modificationDate=1533936917000&api=v2)
+![TOTVS /// class=tdn-logo](https://tdn.engpro.totvs.com.br/download/attachments/327682/atl.site.logo?version=2&modificationDate=1533936917000&api=v2 "TDN - TOTVS Developer Network")
+
 > *TDN - TOTVS Developer Network* - **Documentação Técnica**
 
 - [**Plataforma homologada dos produtos**][HOMOLOGADO]
