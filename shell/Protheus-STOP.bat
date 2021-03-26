@@ -3,7 +3,7 @@ SETLOCAL
 
 @REM =============== Vari veis com nome e IDs de Servi‡os do Windows ==============
 @REM Nomes podem ter espa‡os e caracteres especiais.
-@REM Para escapagem manter todo comando SET de atribui‡?o entre aspas 
+@REM Para escapagem manter todo comando SET de atribui‡Æo entre aspas 
 SET "SVC_BD_NAME=SQL Server (MSSQLSERVER)"
 SET "SVC_BD_S_ID=MSSQLSERVER"
 SET "SVC_LS_NAME=TOTVS | License Server Virtual"
@@ -25,7 +25,7 @@ ECHO %HEADER_LINE%
 ECHO.
 ECHO !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 ECHO !!                                                                          !!
-ECHO !! ATEN€?O! Executar script como Administrador                              !!
+ECHO !! ATEN€ÇO! Executar script como Administrador                              !!
 ECHO !!                                                                          !!
 ECHO !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 ECHO.
@@ -70,7 +70,7 @@ ECHO %HEADER_TEXT%
 ECHO %HEADER_LINE%
 ECHO.
 ECHO ------------------------------------------------------------------------------
-ECHO ==^> SITUA€?O DOS SERVI€OS NO AMBIENTE...                                     =
+ECHO ==^> SITUA€ÇO DOS SERVI€OS NO AMBIENTE...                                     =
 ECHO ------------------------------------------------------------------------------
 ECHO.
 ECHO "%SVC_BD_NAME%"
